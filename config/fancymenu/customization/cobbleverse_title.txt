@@ -1,0 +1,143 @@
+type = fancymenu_layout
+
+layout-meta {
+  identifier = title_screen
+  render_custom_elements_behind_vanilla = false
+  last_edited_time = 1795615027593
+  is_enabled = true
+  widget_identifier_revision = 2
+  randommode = false
+  randomgroup = 1
+  randomonlyfirsttime = false
+  layout_index = 0
+}
+
+menu_background {
+  instance_identifier = cobbleverse_bg
+  background_type = image
+  image_path = [source:local]/config/fancymenu/assets/cobbleverse_bg.png
+  slide = false
+  repeat_texture = false
+  parallax = false
+  show_background = true
+}
+
+customization {
+  action = backgroundoptions
+  keepaspectratio = true
+}
+
+vanilla_button {
+  element_type = vanilla_button
+  instance_identifier = mc_titlescreen_singleplayer_button
+  is_hidden = true
+}
+
+vanilla_button {
+  element_type = vanilla_button
+  instance_identifier = mc_titlescreen_multiplayer_button
+  is_hidden = true
+}
+
+vanilla_button {
+  element_type = vanilla_button
+  instance_identifier = mc_titlescreen_realms_button
+  is_hidden = true
+}
+
+vanilla_button {
+  element_type = vanilla_button
+  instance_identifier = mc_titlescreen_language_button
+  is_hidden = true
+}
+
+vanilla_button {
+  element_type = vanilla_button
+  instance_identifier = mc_titlescreen_accessibility_button
+  is_hidden = true
+}
+
+vanilla_button {
+  element_type = vanilla_button
+  instance_identifier = mc_titlescreen_playdemo_button
+  is_hidden = true
+}
+
+vanilla_button {
+  element_type = vanilla_button
+  instance_identifier = minecraft_splash_widget
+  is_hidden = true
+}
+
+vanilla_button {
+  element_type = vanilla_button
+  instance_identifier = minecraft_realms_notification_icons_widget
+  is_hidden = true
+}
+
+vanilla_button {
+  element_type = vanilla_button
+  instance_identifier = mc_titlescreen_options_button
+  is_hidden = false
+  anchor_point = vanilla
+  backgroundnormal = [source:local]/config/fancymenu/assets/cobble_btn_small.png
+  backgroundhovered = [source:local]/config/fancymenu/assets/cobble_btn_small_hover.png
+  label_base_color = #303030
+  label_shadow = false
+}
+
+vanilla_button {
+  element_type = vanilla_button
+  instance_identifier = mc_titlescreen_quit_button
+  is_hidden = false
+  anchor_point = vanilla
+  backgroundnormal = [source:local]/config/fancymenu/assets/cobble_btn_small.png
+  backgroundhovered = [source:local]/config/fancymenu/assets/cobble_btn_small_hover.png
+  label_base_color = #303030
+  label_shadow = false
+}
+
+element {
+  element_type = image
+  instance_identifier = cobbleverse_logo
+  source = [source:local]/config/fancymenu/assets/cobbleverse_title_logo.png
+  anchor_point = top-centered
+  x = -100
+  y = 78
+  width = 200
+  height = 42
+  stay_on_screen = true
+}
+
+element {
+  element_type = custom_button
+  instance_identifier = cobbleverse_join
+  label = 서버 접속
+  buttonaction = joinserver
+  value = happygwiseo.duckdns.org
+  backgroundnormal = [source:local]/config/fancymenu/assets/cobble_btn_join.png
+  backgroundhovered = [source:local]/config/fancymenu/assets/cobble_btn_join_hover.png
+  label_base_color = #FFFFFF
+  label_shadow = true
+  anchor_point = element
+  anchor_point_element = mc_titlescreen_options_button
+  x = 0
+  y = -24
+  width = 200
+  height = 20
+  stay_on_screen = true
+}
+
+element {
+  element_type = image
+  instance_identifier = cobbleverse_join_icon
+  source = [source:location]cobblemon:textures/item/poke_balls/poke_ball.png
+  anchor_point = element
+  anchor_point_element = cobbleverse_join
+  x = 4
+  y = 2
+  width = 16
+  height = 16
+  stay_on_screen = true
+}
+

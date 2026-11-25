@@ -176,8 +176,40 @@ hash = "f8771399983a444d78a00704e6d97b21617871c888a561daf68b18b4ec826b9c"
 preserve = true
 
 [[files]]
+file = "config/fancymenu/assets/cobble_btn_join.png"
+hash = "ca65f7a1e2c31724c0d279fdb8cade2178e85b8357d20ae8b086799366604e29"
+
+[[files]]
+file = "config/fancymenu/assets/cobble_btn_join_hover.png"
+hash = "cd01f73eca573708fe5e6bc18cb2a1ed944c7a4f0fa8a157f1ecdfdd1ab98ddb"
+
+[[files]]
+file = "config/fancymenu/assets/cobble_btn_small.png"
+hash = "49925522762633f9b3269883f3521bfb3960ba7b744f01cba2f7c665eeedc4c4"
+
+[[files]]
+file = "config/fancymenu/assets/cobble_btn_small_hover.png"
+hash = "bb5128de11fd7db11181bf137e0f18b46dbd494e55c436090fc5f1311f0f145f"
+
+[[files]]
+file = "config/fancymenu/assets/cobbleverse_bg.png"
+hash = "bf970acb4a43fb6dbb1737fe4186074f493e8780349a7c30d8ba32df144e78b9"
+
+[[files]]
+file = "config/fancymenu/assets/cobbleverse_title_logo.png"
+hash = "7071b57e5b625a58b18bf5287f2a9a38a087869aab428196f2dedd7874d51985"
+
+[[files]]
+file = "config/fancymenu/customizablemenus.txt"
+hash = "6f839fad9a09709e9c2d1b269218da6a515ea31495575de5bdbc901147740327"
+
+[[files]]
+file = "config/fancymenu/customization/cobbleverse_title.txt"
+hash = "00dbbdc9d71c194253a783da2ec4364355467e99caca494b152052ac32e1ca06"
+
+[[files]]
 file = "config/fancymenu/options.txt"
-hash = "3b3139953b11051380a4d72582685f40867e4ff68b764ff722273c365b825891"
+hash = "94203bafa8f2e2015a1374e26ffee343096fba5d8fc35aafd5c5c58e7a1a48be"
 preserve = true
 
 [[files]]
