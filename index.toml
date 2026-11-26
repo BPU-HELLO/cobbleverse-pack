@@ -576,11 +576,6 @@ hash = "1a9e41a00f4eb1791976f40a3b0a77627be01b412da7e9f34a049aac7662404f"
 metafile = true
 
 [[files]]
-file = "mods/c2me-fabric.pw.toml"
-hash = "b949add92d8a4c1890c780d24eb8653bd4be8b54240a3066b89f86683653d743"
-metafile = true
-
-[[files]]
 file = "mods/carved-wood.pw.toml"
 hash = "eba125ca58072ca631cafdc7e8ecab57b188c61193b8e6483eac97c05fd00d4f"
 metafile = true
@@ -663,10 +658,6 @@ metafile = true
 file = "mods/cobblemonraiddens.pw.toml"
 hash = "1195ca01772162cd080300582ee5120889156b31cd09be137235b04f04e4a7ff"
 metafile = true
-
-[[files]]
-file = "mods/cobbleplus-1.3.1.jar"
-hash = "8acedb4e860743ed662db5b6d4695fe634836b5294700bb262a783b77c429d64"
 
 [[files]]
 file = "mods/cobbleplus-1.4.1.jar"
