@@ -1,0 +1,32 @@
+{
+  "_설명": "서버 관리자 친구 팩이 자동으로 만드는 파일. 코블플러스가 친구 게임에서 이 리소스팩들을 처음 한 번 켜 줌 (순서대로, 뒤가 위)",
+  "enable": [
+    "file/Better Leaves.zip",
+    "file/Classic Grass.zip",
+    "file/Low Fire.zip",
+    "file/Emissive Cobblemon Ores.zip",
+    "file/Fresh Icons.zip",
+    "file/PokeRods3D.zip",
+    "file/JigglyRadio.zip",
+    "file/COBBLEVERSE Soundtrack.zip",
+    "file/E19 Cobblemon Minimap Icons.zip",
+    "file/ATMxMSD RP.zip",
+    "file/CavsCobbleMons RP.zip",
+    "file/FullyHisuianStarters RP.zip",
+    "file/HydroReanimodel RP.zip",
+    "file/MissingMons RP.zip",
+    "file/MundialMons RP.zip",
+    "file/OJsAnimations RP.zip",
+    "file/Pokemans RP.zip",
+    "file/Canon PC Wallpapers.zip",
+    "file/Cobblemon Interface.zip",
+    "file/Cobblemon Interface Modded.zip",
+    "file/COBBLEVERSE RCTmod RP.zip",
+    "file/COBBLEVERSE RP.zip",
+    "file/ModTranslator_ko.zip",
+    "file/PokeDiscs.zip",
+    "file/PlanetaCobblemon RP.zip",
+    "file/Comforts Modernized.zip",
+    "file/Original Pokemon Battle Music.zip"
+  ]
+}

@@ -151,6 +151,10 @@ hash = "d9cdbe4c56f4f2099ba600319c833fe8b20d4eb52e060e5b4978bc2e6bf801f4"
 preserve = true
 
 [[files]]
+file = "config/cobbleplus/friendpack_resourcepacks.json"
+hash = "66db7ec9fe8f71ab40e7ff2c8241123cc417a580653a3da9996891eaab3c2365"
+
+[[files]]
 file = "config/cobbreeding/main.json"
 hash = "993c3cadb89057bda5d22ebb52f7be34cd8ef54e708d2abd94fbe1a319086153"
 preserve = true
@@ -665,6 +669,10 @@ file = "mods/cobbleplus-1.3.1.jar"
 hash = "8acedb4e860743ed662db5b6d4695fe634836b5294700bb262a783b77c429d64"
 
 [[files]]
+file = "mods/cobbleplus-1.4.1.jar"
+hash = "879e5761d3ef74bfc82af986d34f1f1b1b6157f42a6d1385b8d4db3042242f5a"
+
+[[files]]
 file = "mods/cobbleverse-badges.pw.toml"
 hash = "1ea3547c4de9f968efebd4aacedf11dad00069eceb4ae46b2aeb365a6d998e6c"
 metafile = true
@@ -1040,8 +1048,135 @@ hash = "5e3c3b4d7ca4e5eb651275ba9145be71971574c6bb1fba8943dec897b625937c"
 preserve = true
 
 [[files]]
+file = "resourcepacks/ATMxMSD RP.zip"
+hash = "042c48e4b811cdb582f6feac672bdaf7948550bf40e1967549418fac57f0a178"
+
+[[files]]
+file = "resourcepacks/Better-Leaves.pw.toml"
+hash = "ec321762010a3b76a93b1560c2d24c361b0bd914a21688d9cfd369a315984696"
+metafile = true
+
+[[files]]
+file = "resourcepacks/COBBLEVERSE RCTmod RP.zip"
+hash = "2cec17def69ce520b07fab67eea8c51a94a410a981d50ca4673e463453530e7b"
+
+[[files]]
+file = "resourcepacks/COBBLEVERSE RP.zip"
+hash = "4ebef172f3b07df43b982507028c9296b5c65843ee81f81ed5aed340d842dc9a"
+
+[[files]]
+file = "resourcepacks/COBBLEVERSE-Soundtrack.pw.toml"
+hash = "de6e185cd6e3a3c6a33ebdfd342d4a5d2371cf21b33413c6caa239bdb35920a1"
+metafile = true
+
+[[files]]
+file = "resourcepacks/Canon-PC-Wallpapers.pw.toml"
+hash = "1b7970111d55d4f0b515a18e92394b6355f86b9f8fbf662285e8618a45880185"
+metafile = true
+
+[[files]]
+file = "resourcepacks/CavsCobbleMons RP.zip"
+hash = "6a50b70afda80ba3df174d0bf5e20e6f9d40cc2c485e3891e93b9a59f392de0a"
+
+[[files]]
+file = "resourcepacks/Classic-Grass.pw.toml"
+hash = "9483d021301284533b0ee48266d707c0315bff242123d7e4c32ac5cc67b100a2"
+metafile = true
+
+[[files]]
+file = "resourcepacks/Cobblemon Interface Modded.zip.rpo"
+hash = "44136fa355b3678a1146ad16f7e8649e94fb4fc21fe77e8310c060f61caaff8a"
+
+[[files]]
+file = "resourcepacks/Cobblemon Interface.zip.rpo"
+hash = "cd23a448bda028590c96b9b2b7ecfb4f0456d6aad02b934283ffe47d4d88046f"
+
+[[files]]
+file = "resourcepacks/Cobblemon-Interface-Modded.pw.toml"
+hash = "096c1bf473242e9397895eb4a04d57a97666b3df1071c33a6e36edd538cec694"
+metafile = true
+
+[[files]]
+file = "resourcepacks/Cobblemon-Interface.pw.toml"
+hash = "4f3ac998696a1afc244b2089492578a469ed507334ef36d57cd669c9dc6faf23"
+metafile = true
+
+[[files]]
+file = "resourcepacks/Comforts-Modernized.pw.toml"
+hash = "4376603bb2f2341f2812a883c14b3994b32251faae99614e848a70b3abf6cafd"
+metafile = true
+
+[[files]]
+file = "resourcepacks/E19 Cobblemon Minimap Icons.zip"
+hash = "c3e7381318fefb323dbfb6673b48e3454067487dff9dca25d21e6234ee917531"
+
+[[files]]
+file = "resourcepacks/Emissive-Cobblemon-Ores.pw.toml"
+hash = "8c8cb9462793e2f6477b67929c18fbc1d34130ee739c758ac12658710b4378b4"
+metafile = true
+
+[[files]]
+file = "resourcepacks/Fresh-Icons.pw.toml"
+hash = "6e0596c8ec860552d7b9f0c2923187dca7478f1bf99136db2061c54068523e74"
+metafile = true
+
+[[files]]
+file = "resourcepacks/FullyHisuianStarters-RP.pw.toml"
+hash = "03f5b4298eddbb92a135c495541aa3d998ca0f4f1c3a0c522e39e3f8972c8549"
+metafile = true
+
+[[files]]
+file = "resourcepacks/HydroReanimodel RP.zip"
+hash = "28cbeb01261e1cbacb0b3cfdf15397ae2df85f1bf107b795c37224c52c8036a5"
+
+[[files]]
+file = "resourcepacks/JigglyRadio.pw.toml"
+hash = "03b72e5c4f8e1391a57d2c5e46ef2f8aa3b68f51f49070a5599ed889ccaf09f8"
+metafile = true
+
+[[files]]
+file = "resourcepacks/Low-Fire.pw.toml"
+hash = "6dcbbe81d63d48dff72d1b00de22fff82e01250513a84c7a94533703620a2a8f"
+metafile = true
+
+[[files]]
+file = "resourcepacks/MissingMons RP.zip"
+hash = "122238d6d33197aaeab63575a258c103156814f1f983494fbb1a57b76aa3e593"
+
+[[files]]
 file = "resourcepacks/ModTranslator_ko.zip"
 hash = "f3f7b37ecbcf8dcd928f296438a3c81815851b328c9e48314959c8a257c5e74e"
+
+[[files]]
+file = "resourcepacks/MundialMons RP.zip"
+hash = "d0d35b8aa37e65e7ebee3bbad22dca0fa4f672097f874af516e543c8cb35d3e6"
+
+[[files]]
+file = "resourcepacks/OJsAnimations RP.zip"
+hash = "0772eab3fb332cb62b052a1f84451d562bde847ddd87a7a3ca874d2ef36a2512"
+
+[[files]]
+file = "resourcepacks/Original-Pokemon-Battle-Music.pw.toml"
+hash = "e7d09b583d7df02fbdcacfda661bee54326026a59cde04123be50a398c71648c"
+metafile = true
+
+[[files]]
+file = "resourcepacks/PlanetaCobblemon RP.zip"
+hash = "0c1624310ae2c75f534e78be84ba90c3f9fc36d24f5abc0c06cdf1c973f0989f"
+
+[[files]]
+file = "resourcepacks/PokeDiscs.pw.toml"
+hash = "7315078ef7b5d899414e8251202371f9b22e3bf0c71d0a6cd9397687e6927248"
+metafile = true
+
+[[files]]
+file = "resourcepacks/PokeRods3D.pw.toml"
+hash = "ed0b701326d0ec389ef2a5a51d1d7cac6dbb606cfa8a8b8cdbb65dcf286820ab"
+metafile = true
+
+[[files]]
+file = "resourcepacks/Pokemans RP.zip"
+hash = "d0c0268051da4ac0c2a47af803e179ec221e222dd680f4a041e97c2dac5d411b"
 
 [[files]]
 file = "servers.dat"
@@ -1057,3 +1192,4 @@ metafile = true
 file = "shaderpacks/complementary-reimagined.pw.toml"
 hash = "0d32bfe86e50ee8f5533cf53f1f1a3597f34df2ae2408b120f96bc4bbc723706"
 metafile = true
+
