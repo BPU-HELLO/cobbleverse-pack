@@ -664,8 +664,8 @@ hash = "1195ca01772162cd080300582ee5120889156b31cd09be137235b04f04e4a7ff"
 metafile = true
 
 [[files]]
-file = "mods/cobbleplus-1.4.12.jar"
-hash = "43d77aaaeda6e776d37a09f5624e3bad0b6359f6330cf8759cdbc911b96ef60a"
+file = "mods/cobbleplus-1.4.13.jar"
+hash = "6a0281c92643573186c182eaa8f1ea23da13a4fd3803a990c4a1a0470ecff771"
 
 [[files]]
 file = "mods/cobbleverse-badges.pw.toml"
@@ -940,6 +940,11 @@ metafile = true
 [[files]]
 file = "mods/scalablelux.pw.toml"
 hash = "ceb180c764fa9c7c12c7e750cc7b726171277cb2b68e47370888c4ff4679a4ed"
+metafile = true
+
+[[files]]
+file = "mods/simple-voice-chat.pw.toml"
+hash = "6c236a3eb1252f7a2e1dba35fb301d41f788358320aad4f2ce97b5dd2d79db3e"
 metafile = true
 
 [[files]]
