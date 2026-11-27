@@ -664,8 +664,8 @@ hash = "1195ca01772162cd080300582ee5120889156b31cd09be137235b04f04e4a7ff"
 metafile = true
 
 [[files]]
-file = "mods/cobbleplus-1.4.8.jar"
-hash = "5dcec879852fbc14e0594fc89b72fb1f0f7c75166ccc73d0d72af771a94b5562"
+file = "mods/cobbleplus-1.4.9.jar"
+hash = "d54a9b198d4dc6c67b4afc92e8f912ad3f0e1ea056b928e8ec8654c928e5409f"
 
 [[files]]
 file = "mods/cobbleverse-badges.pw.toml"
