@@ -71,6 +71,12 @@ vanilla_button {
 
 vanilla_button {
   element_type = vanilla_button
+  instance_identifier = minecraft_logo_widget
+  is_hidden = true
+}
+
+vanilla_button {
+  element_type = vanilla_button
   instance_identifier = minecraft_realms_notification_icons_widget
   is_hidden = true
 }
@@ -79,10 +85,11 @@ vanilla_button {
   element_type = vanilla_button
   instance_identifier = mc_titlescreen_options_button
   is_hidden = false
+  label = 설정
   anchor_point = vanilla
   backgroundnormal = [source:local]/config/fancymenu/assets/cobble_btn_small.png
   backgroundhovered = [source:local]/config/fancymenu/assets/cobble_btn_small_hover.png
-  label_base_color = #303030
+  label_base_color = #18306E
   label_shadow = false
 }
 
@@ -93,7 +100,7 @@ vanilla_button {
   anchor_point = vanilla
   backgroundnormal = [source:local]/config/fancymenu/assets/cobble_btn_small.png
   backgroundhovered = [source:local]/config/fancymenu/assets/cobble_btn_small_hover.png
-  label_base_color = #303030
+  label_base_color = #18306E
   label_shadow = false
 }
 
@@ -102,17 +109,17 @@ element {
   instance_identifier = cobbleverse_logo
   source = [source:local]/config/fancymenu/assets/cobbleverse_title_logo.png
   anchor_point = top-centered
-  x = -100
-  y = 78
-  width = 200
-  height = 42
+  x = -150
+  y = 26
+  width = 300
+  height = 57
   stay_on_screen = true
 }
 
 element {
   element_type = custom_button
   instance_identifier = cobbleverse_join
-  label = 서버 접속
+  label = 코블버스 서버 접속
   buttonaction = joinserver
   value = happygwiseo.duckdns.org
   backgroundnormal = [source:local]/config/fancymenu/assets/cobble_btn_join.png
@@ -122,9 +129,9 @@ element {
   anchor_point = element
   anchor_point_element = mc_titlescreen_options_button
   x = 0
-  y = -24
+  y = -30
   width = 200
-  height = 20
+  height = 24
   stay_on_screen = true
 }
 
@@ -134,8 +141,8 @@ element {
   source = [source:location]cobblemon:textures/item/poke_balls/poke_ball.png
   anchor_point = element
   anchor_point_element = cobbleverse_join
-  x = 4
-  y = 2
+  x = 6
+  y = 4
   width = 16
   height = 16
   stay_on_screen = true

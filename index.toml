@@ -151,6 +151,10 @@ hash = "d9cdbe4c56f4f2099ba600319c833fe8b20d4eb52e060e5b4978bc2e6bf801f4"
 preserve = true
 
 [[files]]
+file = "config/cobbleplus/friendpack_keys.txt"
+hash = "91a1e4656ced5f4ddac24bc468a03c459e259fd04d0f2c4b343ad4522663db36"
+
+[[files]]
 file = "config/cobbleplus/friendpack_resourcepacks.json"
 hash = "66db7ec9fe8f71ab40e7ff2c8241123cc417a580653a3da9996891eaab3c2365"
 
@@ -181,27 +185,27 @@ preserve = true
 
 [[files]]
 file = "config/fancymenu/assets/cobble_btn_join.png"
-hash = "ca65f7a1e2c31724c0d279fdb8cade2178e85b8357d20ae8b086799366604e29"
+hash = "b11fb49089f07bcd4625e65b8421224e5d2705dc58157a8c5ccc0af2bb97118a"
 
 [[files]]
 file = "config/fancymenu/assets/cobble_btn_join_hover.png"
-hash = "cd01f73eca573708fe5e6bc18cb2a1ed944c7a4f0fa8a157f1ecdfdd1ab98ddb"
+hash = "730af7949176c94f9ce37b5a591dcc3cc4734bfb280e3097c274f097bd601f65"
 
 [[files]]
 file = "config/fancymenu/assets/cobble_btn_small.png"
-hash = "49925522762633f9b3269883f3521bfb3960ba7b744f01cba2f7c665eeedc4c4"
+hash = "347073987f2729ab0a1233d92a2c793140a612d8736fe278df99e535cc41120c"
 
 [[files]]
 file = "config/fancymenu/assets/cobble_btn_small_hover.png"
-hash = "bb5128de11fd7db11181bf137e0f18b46dbd494e55c436090fc5f1311f0f145f"
+hash = "df902cd5a37bb923b5540fe7e235db5052006ceaab84f21c12616f07940da3f3"
 
 [[files]]
 file = "config/fancymenu/assets/cobbleverse_bg.png"
-hash = "bf970acb4a43fb6dbb1737fe4186074f493e8780349a7c30d8ba32df144e78b9"
+hash = "9cace07e705e040f2f22db741b9abb002f46e9fa81ce4ec34ed4fdd47996c6c9"
 
 [[files]]
 file = "config/fancymenu/assets/cobbleverse_title_logo.png"
-hash = "7071b57e5b625a58b18bf5287f2a9a38a087869aab428196f2dedd7874d51985"
+hash = "1ce885893c1db8bb4ebc70e60f08eea72b330e9a3e6ec74809eae71e8fc5b367"
 
 [[files]]
 file = "config/fancymenu/customizablemenus.txt"
@@ -209,7 +213,7 @@ hash = "6f839fad9a09709e9c2d1b269218da6a515ea31495575de5bdbc901147740327"
 
 [[files]]
 file = "config/fancymenu/customization/cobbleverse_title.txt"
-hash = "00dbbdc9d71c194253a783da2ec4364355467e99caca494b152052ac32e1ca06"
+hash = "9bd98ca845def27c4afd27e96761676f5e7597d4cd72e48540bf61e4e7a4af5b"
 
 [[files]]
 file = "config/fancymenu/options.txt"
@@ -660,8 +664,8 @@ hash = "1195ca01772162cd080300582ee5120889156b31cd09be137235b04f04e4a7ff"
 metafile = true
 
 [[files]]
-file = "mods/cobbleplus-1.4.1.jar"
-hash = "5ee2b39b9c9a9710b48e42386ffba1c28b97e233903fb17aa1ae265e385a9404"
+file = "mods/cobbleplus-1.4.8.jar"
+hash = "5dcec879852fbc14e0594fc89b72fb1f0f7c75166ccc73d0d72af771a94b5562"
 
 [[files]]
 file = "mods/cobbleverse-badges.pw.toml"
