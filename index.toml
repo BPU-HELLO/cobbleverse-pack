@@ -152,7 +152,7 @@ preserve = true
 
 [[files]]
 file = "config/cobbleplus/friendpack_keys.txt"
-hash = "72183dde01717558536750a018fbb9c5cbe8d7160f5a6f12635d7db8c0abee14"
+hash = "2cc478edc7045744afd1639a955fc84502c70b0eb5022e4fe509298747dff483"
 
 [[files]]
 file = "config/cobbleplus/friendpack_resourcepacks.json"
@@ -664,8 +664,8 @@ hash = "1195ca01772162cd080300582ee5120889156b31cd09be137235b04f04e4a7ff"
 metafile = true
 
 [[files]]
-file = "mods/cobbleplus-1.4.19.jar"
-hash = "8544273b506b0a8c9c629f0cdb879554eee7ea7c16768890a593220b6bccde4a"
+file = "mods/cobbleplus-1.4.22.jar"
+hash = "a4a78a0da264cd2fc2e8eebee8fedafa25293e2c6df4c680de8b527d96ff41b0"
 
 [[files]]
 file = "mods/cobbleverse-badges.pw.toml"
@@ -710,6 +710,11 @@ metafile = true
 [[files]]
 file = "mods/fancymenu.pw.toml"
 hash = "eabd4c165faa8a9856264145b56860aca7d580af450e65e45d1f35b5505acb46"
+metafile = true
+
+[[files]]
+file = "mods/farmers-delight-refabricated.pw.toml"
+hash = "f2dd3bcc1e38d91445004d43d84ed98f1e6c4c7284f0b91a80ca01129740044a"
 metafile = true
 
 [[files]]
