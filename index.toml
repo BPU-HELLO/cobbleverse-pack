@@ -152,7 +152,7 @@ preserve = true
 
 [[files]]
 file = "config/cobbleplus/friendpack_keys.txt"
-hash = "c034b0c317de5aa200f7e73fb8bd22804296d03ba4767506dc1f8949d00ae287"
+hash = "72183dde01717558536750a018fbb9c5cbe8d7160f5a6f12635d7db8c0abee14"
 
 [[files]]
 file = "config/cobbleplus/friendpack_resourcepacks.json"
@@ -664,8 +664,8 @@ hash = "1195ca01772162cd080300582ee5120889156b31cd09be137235b04f04e4a7ff"
 metafile = true
 
 [[files]]
-file = "mods/cobbleplus-1.4.14.jar"
-hash = "f36f2c5b3173d1adef500186e1a325e780913b1e60922d5c6ae28e3318538efb"
+file = "mods/cobbleplus-1.4.19.jar"
+hash = "8544273b506b0a8c9c629f0cdb879554eee7ea7c16768890a593220b6bccde4a"
 
 [[files]]
 file = "mods/cobbleverse-badges.pw.toml"
