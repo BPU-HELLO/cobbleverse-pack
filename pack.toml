@@ -1,12 +1,12 @@
 name = "Cobbleverse"
 author = "BPU-HELLO"
-version = "2026.11.28.1507"
+version = "2026.11.28.1701"
 pack-format = "packwiz:1.1.0"
 
 [index]
 file = "index.toml"
 hash-format = "sha256"
-hash = "45c1e83e30441ecf15e9815a92b5677161f8f2b408bada4938b4d3a325ac01bb"
+hash = "db095d370a205b7322597544d5865772a6fd1700814d06d1fd9a13b598e05af8"
 
 [versions]
 fabric = "0.20.1"
